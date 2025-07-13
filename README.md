@@ -1,25 +1,16 @@
-# Drowsiness Detection using Mediapipe & OpenCV
+# 💤 Drowsiness Detection using Mediapipe & OpenCV
 
-Detects driver drowsiness and yawning using Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR).
+This project detects driver drowsiness and yawning using **Eye Aspect Ratio (EAR)** and **Mouth Aspect Ratio (MAR)**.  
+It uses **MediaPipe FaceMesh**, **OpenCV**, and **NumPy** to run real-time detection from webcam or video input.
 
-## Features
-- Real-time eye closure and yawn detection
-- Works with webcam or video input
-- No sound alarms (clean version for GitHub)
+---
 
-## Setup
+## 🚀 Features
 
-1. Install dependencies:
-```
-pip install -r requirements.txt
-```
+- ✅ Real-time eye closure detection
+- 😮 Yawn detection using mouth aspect ratio
+- 🎥 Works with webcam or video file
 
-2. Run the detection script:
-```
-python drowsiness_detection.py
-```
-
-## Requirements
-- OpenCV
-- Mediapipe
-- NumPy
+---
+![Sleepy Mode](link_to_sleepy_image)
+![Normal Mode](link_to_normal_image)
