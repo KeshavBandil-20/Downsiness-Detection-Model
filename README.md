@@ -114,6 +114,6 @@ If you find this useful or have suggestions, feel free to connect!
 
 ## 🔗 Connect with Me
 
-- 🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- 📫 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🔗 GitHub: [github.com/yourusername](https://github.com/keshavbandil-20)
+- 📫 Email: keshavbandil20@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/keshav-bandil-949924213/)
