@@ -13,4 +13,4 @@ It uses **MediaPipe FaceMesh**, **OpenCV**, and **NumPy** to run real-time detec
 
 ---
 ![Sleepy Mode](https://github.com/KeshavBandil-20/Downsiness-Detection-Model/blob/138ffde9626850584657f486fa6135e91b694090/IMG/Awake.png)
-![Normal Mode](link_to_normal_image)
+![Normal Mode](https://github.com/KeshavBandil-20/Downsiness-Detection-Model/blob/610a37b7cbfa2ad1714360c94d6ac43a19906bc2/IMG/Sleepy.png)
